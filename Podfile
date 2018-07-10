@@ -8,6 +8,6 @@ source 'https://github.com/ModularizationTest/PrivatePods.git'
 target 'A' do
 
 	pod 'HandyFrame'
-    	pod "B_Category", :path => "../B_Category"
+    	pod "B_Category"
  
 end
