@@ -1,0 +1,22 @@
+PODS:
+  - B_Category (1):
+    - CTMediator
+  - CTMediator (18)
+  - HandyFrame (1.2.0)
+
+DEPENDENCIES:
+  - B_Category (from `../B_Category`)
+  - HandyFrame
+
+EXTERNAL SOURCES:
+  B_Category:
+    :path: "../B_Category"
+
+SPEC CHECKSUMS:
+  B_Category: f284fa5e67f5ead02b435adef36bdfb6bb7cfaad
+  CTMediator: 420e9d90f9f1fd740caf2238ed7ed64dc621c5b7
+  HandyFrame: 437df83ba7563c56cd55b9bd0128561995463110
+
+PODFILE CHECKSUM: f5abc3e12549dcbf83ed55ab6fadff8c87f49a8a
+
+COCOAPODS: 1.2.1
